@@ -27,8 +27,6 @@ A Virtual Environment is a tool to keep the dependencies required by different p
 
 For example, you can work on a project which requires Django 1.10 while also maintaining a project which requires Django 1.8.
 
-**
-
 ## **virtualenv**
 virtualenv is a tool to create isolated Python environments. virtualenv creates a folder which contains all the necessary executables to use the packages that a Python project would need.
 
